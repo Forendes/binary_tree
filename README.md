@@ -1,4 +1,4 @@
-# Cormen-binary-tree-rust
+# Cormen-binary-tree
 Rust implementation of binary tree from the book "Introduction to Algorithms, 3rd Edition"
 
 # Overview
