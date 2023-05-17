@@ -226,8 +226,8 @@ impl TreeNode {
                 if let Some(right_child) = &temp.right {
                     children_queue.push_back(right_child.as_ref());
                 }
-            } 
-        }   
+            }
+        }
         depth
     }
 
